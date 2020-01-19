@@ -1,5 +1,7 @@
 # AndroidCoinTracker
 
+Projet personnel fait en 1 semaine.
+
 Simple app to tracking price of Cryptocurrency with Coinmarketcap API and Kotlin.
 
 Librairies :
