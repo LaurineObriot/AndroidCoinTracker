@@ -9,3 +9,5 @@ Librairies :
 - OkHttp3 : to fetch API
 - Picasso : To load Image
 - Gson : to convert result
+
+<img src="https://github.com/LaurineObriot/AndroidCoinTracker/blob/master/screenshots/CaptureLetsChat4.PNG">
